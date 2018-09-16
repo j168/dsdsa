@@ -462,7 +462,8 @@
 </table>
 <p></p>
 
-
+<div align=center>
+  <img src="images/b_illust_98_0M.png" width=450></div>
 
 <table>
 <tr>
